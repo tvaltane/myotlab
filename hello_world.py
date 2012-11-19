@@ -1,6 +1,6 @@
 def main():
 	name = raw_input("What's your name?")
-	print "Hello world!"
+	print "hello " + name
 
 main()
 	
