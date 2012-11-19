@@ -6,5 +6,7 @@ def main():
 	input2 = int(raw_input("Gimme some numbers! "))
 	input3 = int(raw_input("Gimme another one! "))
 	print input2 + input3
+	print "editing ur filezzz\nAnd haxing your labs"
+	
 main()
 	
